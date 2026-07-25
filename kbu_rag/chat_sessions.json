@@ -1,0 +1,329 @@
+{
+  "0ab1c8bc": {
+    "title": "Mezun olmak için GANO kaç olmalı?",
+    "created_at": "2026-06-11T12:26:59.060101",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mezun olmak için GANO kaç olmalı?"
+      },
+      {
+        "role": "assistant",
+        "content": "Öğrencinin mezuniyete hak kazanabilmesi için genel akademik not ortalamasının en az 2,00 olması gerekir (Madde 29 – sinav.pdf).",
+        "sources": [
+          "MADDE 26 – (1) Öğrencilerin başarı durumları, bitirdikleri yarıyılda almış oldukları derslere ait | sinav.pdf",
+          "MADDE 29 – (1) Öğrencinin mezuniyete hak kazanabilmesi için; kayıtlı olduğu diploma | sinav.pdf",
+          "MADDE 20 – (1) Yandal programına başvurusu kabul edilen öğrenci, yandal programı kapsamında, senato kararı ile belirlenmiş olan dersleri almak ve bu dersleri başarmak zorundadır. Bu dersler ilgili bölümler arasında kararlaştırılır, ilgili fakülte kurullarının ve üniversite senatosunun onayına sunulur. | Mevzuat Bilgi Sistemi.pdf",
+          "MADDE 30 – (1) Onur belgesi ve yüksek onur belgesi, Sena to tarafından belirlenen esaslara ve | sinav.pdf",
+          "MADDE 23 – (1) Sınavlar; ara sınav, yarıyıl sonu sınavı, bütünleme sınavı, mazeret sınavı, tek | sinav.pdf"
+        ]
+      },
+      {
+        "role": "user",
+        "content": "Mezun olmak için GANO kaç olmalı?"
+      },
+      {
+        "role": "assistant",
+        "content": "Öğrencinin mezuniyete hak kazanabilmesi için genel akademik not ortalamasının en az 2,00 olması gerekir (Madde 29 – sinav.pdf).",
+        "sources": [
+          "MADDE 26 – (1) Öğrencilerin başarı durumları, bitirdikleri yarıyılda almış oldukları derslere ait | sinav.pdf",
+          "MADDE 29 – (1) Öğrencinin mezuniyete hak kazanabilmesi için; kayıtlı olduğu diploma | sinav.pdf",
+          "MADDE 20 – (1) Yandal programına başvurusu kabul edilen öğrenci, yandal programı kapsamında, senato kararı ile belirlenmiş olan dersleri almak ve bu dersleri başarmak zorundadır. Bu dersler ilgili bölümler arasında kararlaştırılır, ilgili fakülte kurullarının ve üniversite senatosunun onayına sunulur. | Mevzuat Bilgi Sistemi.pdf",
+          "MADDE 30 – (1) Onur belgesi ve yüksek onur belgesi, Sena to tarafından belirlenen esaslara ve | sinav.pdf",
+          "MADDE 23 – (1) Sınavlar; ara sınav, yarıyıl sonu sınavı, bütünleme sınavı, mazeret sınavı, tek | sinav.pdf"
+        ]
+      }
+    ],
+    "pinned": false,
+    "lang": "TR"
+  },
+  "8b9233db": {
+    "title": "Bütünleme sınavına kimler girebilir?",
+    "created_at": "2026-06-11T12:53:42.406090",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bütünleme sınavına kimler girebilir?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu konu hakkında verilen bilgilere göre, bütünleme sınavına aşağıdaki koşullar altında girilebilir:\n\n1. **Koşullu Başarılı Olunan Dersler**: Koşullu başarılı olunan dersler genel ağırlıklı not ortalamasını (GANO) yükseltmek amacıyla tekrar alınabilir. Tekrarlanan derslerde son alınan not geçerlidir.\n\n2. **Zorunlu Derslerden Başarısız Olduğu Öğrenciler**: Zorunlu derslerden başarısız olan öğrenciler, genellikle bütünleme sınavına başvurabilir. Ancak bu durum özel bir kurum veya bölüm tarafından belirlenir.\n\n3. **Ön Koşullu Derslerden Başarısız Olduğu Öğrenciler**: Ön koşullu derslerden başarısız olan öğrenciler, genellikle ilgili ön koşul derslerini tamamladıktan sonra bütünleme sınavına başvurabilir.\n\n4. **Belirli Koşulların Sağlanması**: Genel olarak, öğrencinin zorunlu veya seçmeli derslerden başarısız olmasının ardından belirli bir süre içinde (genellikle bir yarıyıl veya daha kısa bir sürede) bütünleme sınavına başvurması gerekebilir. Bu durum özel kurum veya bölüm tarafından belirlenir.\n\nÖzetle, zorunlu derslerden başarısız olan öğrenciler genellikle bütünleme sınavına başvurabilir, ancak bu durum ve süreç özel bir kurum veya bölüm tarafından yönetilir.",
+        "sources": [
+          "MADDE 23 – (1) Sınavlar; ara sınav, yarıyıl sonu sınavı, bütünleme sınavı, mazeret sınavı, tek | sinav.pdf",
+          "MADDE 22 – (1) Öğrenciler derslere, uygulamalara ve sınavlara katılmak zorundadır. Devam | sinav.pdf",
+          "MADDE 21 – (1) Öğrenciler her yarıyılın başında, akademik takvimde belirtilen süreler | sinav.pdf",
+          "MADDE 25 – (1) Sınavı yapan öğretim elemanları ara sınav, proje, ödev ve benzeri | sinav.pdf",
+          "MADDE 20 – (1) Öğrencilerin her dönemde izleyecekleri ders programları, kayıtlı oldukları | sinav.pdf"
+        ]
+      },
+      {
+        "role": "user",
+        "content": "Bütünleme sınavına kimler girebilir?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bütünleme sınavına, devam koşulunu yerine getiren ve yarıyıl sonu sınavına girme hakkı olduğu halde girmeyen veya girip başarılı olamayan öğrenciler girebilir (Madde 23 – sinav.pdf).",
+        "sources": [
+          "MADDE 23 – (1) Sınavlar; ara sınav, yarıyıl sonu sınavı, bütünleme sınavı, mazeret sınavı, tek | sinav.pdf",
+          "MADDE 22 – (1) Öğrenciler derslere, uygulamalara ve sınavlara katılmak zorundadır. Devam | sinav.pdf",
+          "MADDE 21 – (1) Öğrenciler her yarıyılın başında, akademik takvimde belirtilen süreler | sinav.pdf",
+          "MADDE 25 – (1) Sınavı yapan öğretim elemanları ara sınav, proje, ödev ve benzeri | sinav.pdf",
+          "MADDE 20 – (1) Öğrencilerin her dönemde izleyecekleri ders programları, kayıtlı oldukları | sinav.pdf"
+        ]
+      },
+      {
+        "role": "user",
+        "content": "tek ders sınavına girmek için gerekli şartlar nelerdir?"
+      },
+      {
+        "role": "assistant",
+        "content": "Tek ders sınavına girmek için gerekli şartlar şunlardır:\n\n1.  **Mezuniyet İçin Tek Ders Başarısızlığı**: Eğitim-öğretim programındaki tüm dersleri alıp devam koşulunu sağlayan, ancak staj dersi hariç mezuniyeti için başarısız tek dersi kalan öğrenciler, ilgili yarıyılda dersin açılıp açılmadığına bakılmaksızın akademik takvimde belirtilen sürelerde ilgili bölüm başkanlığına başvurularını yaparak tek ders sınavına girebilirler (Madde 23 – sinav.pdf).\n2.  **GANO Yükseltme**: Mezuniyetleri için tüm derslerden devam şartını yerine getirerek geçer not aldığı halde mezun olmak için gereken 2,00 genel ağırlıklı not ortalamasını (GANO) sağlayamayan öğrencilere, seçecekleri koşullu başarılı olunan bir dersten akademik takvimde belirlenen tarihlerde tek ders sınav hakkı verilir. Ancak, tek ders sınav sonucunda en yüksek notu (AA) alması halinde dahi genel not ortalamasını 2,00’ye yükseltemeyecek öğrenciye tek ders sınav hakkı tanınmaz (Madde 23 – sinav.pdf).",
+        "sources": [
+          "MADDE 23 – (1) Sınavlar; ara sınav, yarıyıl sonu sınavı, bütünleme sınavı, mazeret sınavı, tek | sinav.pdf",
+          "MADDE 22 – (1) Öğrenciler derslere, uygulamalara ve sınavlara katılmak zorundadır. Devam | sinav.pdf",
+          "MADDE 21 – (1) Öğrenciler her yarıyılın başında, akademik takvimde belirtilen süreler | sinav.pdf",
+          "MADDE 20 – (1) Öğrencilerin her dönemde izleyecekleri ders programları, kayıtlı oldukları | sinav.pdf",
+          "MADDE 7- Bu Yönetmelikte belirlenen koşulları sağlayan ve başvuruları kabul edilen adaylar sözel ve | dgs_yonetmelik.pdf"
+        ]
+      },
+      {
+        "role": "user",
+        "content": "mezun olmam için 2 dersim kaldı 2 tane tek ders sınavına girebilir miyim?"
+      },
+      {
+        "role": "assistant",
+        "content": "Yönetmelikte belirtilen bilgilere göre, tek ders sınavına girebilmek için mezuniyet için staj dersi hariç **başarısız tek dersi kalan öğrenciler** başvurabilirler (Madde 23 – sinav.pdf). Ayrıca, GANO yükseltmek amacıyla da **seçecekleri koşullu başarılı olunan bir dersten** tek ders sınav hakkı verilir (Madde 23 – sinav.pdf).\n\nBu bağlamda, iki dersiniz kaldığı için iki tek ders sınavına girme hakkınız olduğuna dair bir bilgi yönetmelikte yer almamaktadır. Tek ders sınavı, adından da anlaşılacağı üzere genellikle tek bir ders için tanınan bir haktır.",
+        "sources": [
+          "MADDE 23 – (1) Sınavlar; ara sınav, yarıyıl sonu sınavı, bütünleme sınavı, mazeret sınavı, tek | sinav.pdf",
+          "MADDE 21 – (1) Öğrenciler her yarıyılın başında, akademik takvimde belirtilen süreler | sinav.pdf",
+          "MADDE 20 – (1) Öğrencilerin her dönemde izleyecekleri ders programları, kayıtlı oldukları | sinav.pdf",
+          "MADDE 22 – (1) Öğrenciler derslere, uygulamalara ve sınavlara katılmak zorundadır. Devam | sinav.pdf",
+          "MADDE 28 – (1) Öğrencilerin; hakkında açılan disiplin soruşturması sonunda Üniversiteden | sinav.pdf"
+        ]
+      }
+    ],
+    "pinned": false,
+    "lang": "TR"
+  },
+  "078bb336": {
+    "title": "Yatay geçiş için GANO şartı nedir?",
+    "created_at": "2026-06-11T13:51:15.507893",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Yatay geçiş için GANO şartı nedir?"
+      },
+      {
+        "role": "assistant",
+        "content": "Kurumlar arası yatay geçiş için öğrencinin, kayıtlı olduğu programda bitirmiş olduğu dönemlere ait genel not ortalamasının en az 100 üzerinden 60 olması şarttır (Madde 11 – Mevzuat Bilgi Sistemi.pdf).\n\nAçık ve uzaktan öğretimden örgün öğretim programlarına geçiş yapılabilmesi için ise öğrencinin öğrenim görmekte olduğu programdaki genel not ortalamasının 100 üzerinden 90 veya üzeri olması gerekir (Madde 6 – Mevzuat Bilgi Sistemi.pdf).",
+        "sources": [
+          "MADDE 11 – (1) Kurumlar arası yatay geçiş yükseköğretim kurumlarının aynı düzeydeki eşdeğer diploma programları arasında ve Yükseköğretim Kurulu tarafından yayınlanan kontenjanlar çerçevesinde yapılır. | Mevzuat Bilgi Sistemi.pdf",
+          "MADDE 7 – (1) Diploma programları arasında yatay geçiş başvuruları, sadece ilan edilen süre içerisinde yapılır. | Mevzuat Bilgi Sistemi.pdf",
+          "MADDE 1 – (Ek:RG-21/9/2013-28772) (Değişik:RG-2/5/2014-28988) | Mevzuat Bilgi Sistemi.pdf",
+          "MADDE 14 – (1) Üniversite senatoları tarafından yurtdışındaki yükseköğretim kurumlarından yapılacak yatay geçişler için kontenjan belirlenebilir. Kontenjan belirlenmesi halinde her bir program için kurumlar arası yatay geçiş kontenjanının yarısını aşmayacak şekilde belirlenen yurt dışı yükseköğretim kurumları kontenjanları ile üniversite senatosu tarafından belirlenen başvuru şartları, kurumlar arası yatay geçiş kontenjanları ile birlikte Yükseköğretim Kuruluna en geç Haziran ayının otuzuncu günü mesai saati bitimine kadar bildirilir. Yükseköğretim Kurulu internet sayfasında tüm yükseköğretim kurumlarının yurt dışı öğrenci kontenjanları ile başvuru şartları ve değerlendirme takvimi ilan edilir. | Mevzuat Bilgi Sistemi.pdf",
+          "MADDE 6 – (1) (Değişik:RG-18/3/2016-29657) Önlisans ve lisans diploma programlarının hazırlık sınıfına; önlisans diploma programlarının ilk yarıyılı ile son yarıyılına, lisans diploma programlarının ilk iki yarıyılı ile son iki yarıyılına yatay geçiş yapılamaz. | Mevzuat Bilgi Sistemi.pdf"
+        ]
+      },
+      {
+        "role": "user",
+        "content": "yazılım mühendisliği 1.sınıf öğrencisiyim. kaç tane staj yapmam gerekiyor?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu bilgi yönetmelikte yer almıyor. Yönetmelikte staj esaslarının ilgili kurulun teklifi ile Senato tarafından belirleneceği belirtilmekle birlikte, Yazılım Mühendisliği programı için kaç adet staj yapılması gerektiği bilgisi bulunmamaktadır (Madde 11 – sinav.pdf).",
+        "sources": [
+          "MADDE 11 – (1) Eğitim -öğretim plan ve programları, ilgili bölüm/anabilim dalı kurulunun | sinav.pdf",
+          "MADDE 21 – (1) Öğrenciler her yarıyılın başında, akademik takvimde belirtilen süreler | sinav.pdf",
+          "MADDE 20 – (1) Öğrencilerin her dönemde izleyecekleri ders programları, kayıtlı oldukları | sinav.pdf",
+          "MADDE 23 – (1) Sınavlar; ara sınav, yarıyıl sonu sınavı, bütünleme sınavı, mazeret sınavı, tek | sinav.pdf",
+          "MADDE 22 – (1) Öğrenciler derslere, uygulamalara ve sınavlara katılmak zorundadır. Devam | sinav.pdf"
+        ]
+      },
+      {
+        "role": "user",
+        "content": "sınavda kopya çekerken yakalandım. nasıl itiraz edebilirim?"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu bilgi yönetmelikte yer almıyor. Yönetmelikte sınavda kopya çekme girişiminde bulunan veya kopya çeken öğrencilere o sınavdan 0 notu verileceği ve haklarında 2547 sayılı Kanunun 54 üncü maddesi hükümlerinin uygulanacağı belirtilmektedir (Madde 23 – sinav.pdf). Ancak, bu duruma nasıl itiraz edileceğine dair bir bilgi bulunmamaktadır.",
+        "sources": [
+          "MADDE 25 – (1) Sınavı yapan öğretim elemanları ara sınav, proje, ödev ve benzeri | sinav.pdf",
+          "MADDE 23 – (1) Sınavlar; ara sınav, yarıyıl sonu sınavı, bütünleme sınavı, mazeret sınavı, tek | sinav.pdf",
+          "MADDE 28 – (1) Öğrencilerin; hakkında açılan disiplin soruşturması sonunda Üniversiteden | sinav.pdf",
+          "MADDE 24 – (1) Bir dersteki başarı notu, öğrencinin yıl içerisindeki faaliyetlerinin ve/veya | sinav.pdf",
+          "MADDE 22 – (1) Öğrenciler derslere, uygulamalara ve sınavlara katılmak zorundadır. Devam | sinav.pdf"
+        ]
+      }
+    ],
+    "pinned": false,
+    "lang": "TR"
+  },
+  "cb5bd60e": {
+    "title": "vizeye girmedim finale girebilir miyim",
+    "created_at": "2026-06-11T14:04:18.829216",
+    "messages": [
+      {
+        "role": "user",
+        "content": "vizeye girmedim finale girebilir miyim"
+      },
+      {
+        "role": "assistant",
+        "content": "Yarıyıl sonu sınavına girebilmeniz için dersin devam koşulunu yerine getirmeniz gerekmektedir (Madde 23 – sinav.pdf). Teorik derslerde en az %70, uygulamalı derslerde ise en az %80 devam zorunluluğu bulunmaktadır. Bu şartları yerine getiremeyen öğrenciler o dersin sınavlarına giremezler (Madde 22 – sinav.pdf).\n\nYönetmelikte vize sınavına girilmemesinin doğrudan final sınavına girmeye engel olduğuna dair bir bilgi bulunmamaktadır. Ancak, vize sınavına mazereti nedeniyle giremeyen öğrenciler için mazeret sınavı yapılır (Madde 23 – sinav.pdf).",
+        "sources": [
+          "MADDE 23 – (1) Sınavlar; ara sınav, yarıyıl sonu sınavı, bütünleme sınavı, mazeret sınavı, tek | sinav.pdf",
+          "MADDE 22 – (1) Öğrenciler derslere, uygulamalara ve sınavlara katılmak zorundadır. Devam | sinav.pdf",
+          "MADDE 21 – (1) Öğrenciler her yarıyılın başında, akademik takvimde belirtilen süreler | sinav.pdf",
+          "MADDE 29 – (1) Öğrencinin mezuniyete hak kazanabilmesi için; kayıtlı olduğu diploma | sinav.pdf",
+          "MADDE 27 – (1) (Değişik:RG-10/3/2025-32837) Kayıt dondurmak isteyen öğrencilerin | sinav.pdf"
+        ]
+      },
+      {
+        "role": "user",
+        "content": "biyomedikal mühendisliği öğrencisiyim. Tarih bölümünde çift anadal yapabilir miyim?"
+      },
+      {
+        "role": "assistant",
+        "content": "⚠️ Hata: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+      }
+    ],
+    "pinned": false,
+    "lang": "TR"
+  },
+  "55272a56": {
+    "title": "biyomedikal mühendisliği öğrencisiyim. Tarih ...",
+    "created_at": "2026-06-11T14:28:09.455742",
+    "messages": [
+      {
+        "role": "user",
+        "content": "biyomedikal mühendisliği öğrencisiyim. Tarih bölümünde çift anadal yapabilir miyim?"
+      },
+      {
+        "role": "assistant",
+        "content": "⚠️ Günlük API limitine ulaşıldı. Kota **12.06.2026 11:00** itibarıyla yenilenecek."
+      }
+    ],
+    "pinned": false,
+    "lang": "TR"
+  },
+  "8a0ab914": {
+    "title": "Devamsızlık sınırı nedir?",
+    "created_at": "2026-06-11T14:31:37.487445",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Devamsızlık sınırı nedir?"
+      },
+      {
+        "role": "assistant",
+        "content": "Devamsızlık sınırı, teorik derslerde en az %70, uygulamalı derslerde ise en az %80'ye ulaşmamak durumunda o dersin sınavlarına girememek anlamına gelir. Bu şartları yerine getiremeyen öğrenciler o dersin sınavlarına katılamazlar. (Madde 22 – sinav.pdf)",
+        "sources": [
+          "MADDE 22 – (1) Öğrenciler derslere, uygulamalara ve sınavlara katılmak zorundadır. Devam | sinav.pdf",
+          "MADDE 27 – (1) (Değişik:RG-10/3/2025-32837) Kayıt dondurmak isteyen öğrencilerin | sinav.pdf",
+          "MADDE 21 – (1) Öğrenciler her yarıyılın başında, akademik takvimde belirtilen süreler | sinav.pdf",
+          "MADDE 26 – (1) Öğrencilerin başarı durumları, bitirdikleri yarıyılda almış oldukları derslere ait | sinav.pdf",
+          "MADDE 8 – (1) Öğrenciler, her yarıyılın başında ve akademik takvimde belirtilen süre içerisinde | sinav.pdf"
+        ]
+      },
+      {
+        "role": "user",
+        "content": "Öğrenci konseyi başkanının görevleri neler?"
+      },
+      {
+        "role": "assistant",
+        "content": "Öğrenci konseyi başkanının görevleri şunlardır:\n\n- Kendi yükseköğretim kurumu öğrencilerini ulusal ve uluslararası öğrenci etkinliklerinde temsil etmek.\n- Öğrenci konseyi genel kurulu ve öğrenci konseyi yönetim kurulu toplantılarının gündemini belirlemek ve bu toplantılara başkanlık etmek.\n- Öğrenci konseyi genel kurulunca ve öğrenci konseyi yönetim kurulunca alınan kararların duyurulmasını sağlamak ve uygulanmasını izlemek.\n- Görev süresi bitiminde bir yıllık faaliyet raporunu bir sonraki öğrenci konseyi genel kuruluna sunmak.\n- Öğrenciler ile ilgili konuların görüşülmesi sırasında ilgili yükseköğretim kurumunun senato ve yönetim kurulu toplantılarına katılmak. (Madde 12 – ÖĞRENCİ KONSEYİ YÖNETMELİĞİ.pdf)",
+        "sources": [
+          "MADDE 12 – (1) Öğrenci konseyi başkanının görevleri şunlardır: | ÖĞRENCİ KONSEYİ YÖNETMELİĞİ.pdf",
+          "MADDE 10 – (1) Fakülte/yüksekokul/konservatuvar/meslek yüksekokulu öğrenci temsilcisinin görevleri şunlardır: | ÖĞRENCİ KONSEYİ YÖNETMELİĞİ.pdf",
+          "MADDE 11 – (1) Öğrenci konseyi başkanlığını, yükseköğretim kurumunun fakülte/ yüksekokul/konservatuvar adlarının alfabetik sıralamasına göre belirlenen birimin öğrenci temsilcisi üstlenir. | ÖĞRENCİ KONSEYİ YÖNETMELİĞİ.pdf",
+          "MADDE 14 – (1) Öğrenci konseyi genel kurulunun görevleri şunlardır: | ÖĞRENCİ KONSEYİ YÖNETMELİĞİ.pdf",
+          "MADDE 20 – (1) Ulusal Öğrenci Konseyi Başkanı, öğrenci konseyi başkanları arasından kayıtlı oldukları yükseköğretim kurumlarının 28/3/1983 tarihli ve 2809 sayılı Yükseköğretim Kurumları Teşkilatı Kanununda yer alan sırasına göre belirlenir ve bir yıl süreyle görev yapar. | ÖĞRENCİ KONSEYİ YÖNETMELİĞİ.pdf"
+        ]
+      },
+      {
+        "role": "user",
+        "content": "Öğrenci konseyi başkanının görevleri neler?"
+      },
+      {
+        "role": "assistant",
+        "content": "Öğrenci konseyi başkanının görevleri şunlardır:\n\n- Kendi yükseköğretim kurumu öğrencilerini ulusal ve uluslararası öğrenci etkinliklerinde temsil etmek.\n- Öğrenci konseyi genel kurulu ve öğrenci konseyi yönetim kurulu toplantılarının gündemini belirlemek ve bu toplantılara başkanlık etmek.\n- Öğrenci konseyi genel kurulunca ve öğrenci konseyi yönetim kurulunca alınan kararların duyurulmasını sağlamak ve uygulanmasını izlemek.\n- Görev süresi bitiminde bir yıllık faaliyet raporunu bir sonraki öğrenci konseyi genel kuruluna sunmak.\n- Öğrenciler ile ilgili konuların görüşülmesi sırasında ilgili yükseköğretim kurumunun senato ve yönetim kurulu toplantılarına katılmak. (Madde 12 – ÖĞRENCİ KONSEYİ YÖNETMELİĞİ.pdf)",
+        "sources": [
+          "MADDE 12 – (1) Öğrenci konseyi başkanının görevleri şunlardır: | ÖĞRENCİ KONSEYİ YÖNETMELİĞİ.pdf",
+          "MADDE 10 – (1) Fakülte/yüksekokul/konservatuvar/meslek yüksekokulu öğrenci temsilcisinin görevleri şunlardır: | ÖĞRENCİ KONSEYİ YÖNETMELİĞİ.pdf",
+          "MADDE 11 – (1) Öğrenci konseyi başkanlığını, yükseköğretim kurumunun fakülte/ yüksekokul/konservatuvar adlarının alfabetik sıralamasına göre belirlenen birimin öğrenci temsilcisi üstlenir. | ÖĞRENCİ KONSEYİ YÖNETMELİĞİ.pdf",
+          "MADDE 14 – (1) Öğrenci konseyi genel kurulunun görevleri şunlardır: | ÖĞRENCİ KONSEYİ YÖNETMELİĞİ.pdf",
+          "MADDE 20 – (1) Ulusal Öğrenci Konseyi Başkanı, öğrenci konseyi başkanları arasından kayıtlı oldukları yükseköğretim kurumlarının 28/3/1983 tarihli ve 2809 sayılı Yükseköğretim Kurumları Teşkilatı Kanununda yer alan sırasına göre belirlenir ve bir yıl süreyle görev yapar. | ÖĞRENCİ KONSEYİ YÖNETMELİĞİ.pdf"
+        ]
+      },
+      {
+        "role": "user",
+        "content": "sen kimsin"
+      },
+      {
+        "role": "assistant",
+        "content": "Ben Sen Karabük Üniversitesi'nin yönetmelik asistanıyım. Size üniversitenizin yönetmeliklerine dayalı olarak bilgi vermek için buradayım. Sorularınızı bu çerçevede sorabilirsiniz.",
+        "sources": [
+          "MADDE 30 – (1) Onur belgesi ve yüksek onur belgesi, Sena to tarafından belirlenen esaslara ve | sinav.pdf",
+          "dgs_yonetmelik.pdf",
+          "MADDE 18 – (1) Kesin kayıt yaptıran her öğrenci için ilgili bölüm başkanının önerisi üzerine | sinav.pdf",
+          "ÖĞRENCİ KONSEYİ YÖNETMELİĞİ.pdf",
+          "MADDE 1- Bu yönetmeliğin amacı, meslek yüksekokulları ve açıköğretim ön lisans programlarından | dgs_yonetmelik.pdf"
+        ]
+      }
+    ],
+    "pinned": false,
+    "lang": "TR"
+  },
+  "0cdb0b1e": {
+    "title": "What is the attendance limit?",
+    "created_at": "2026-06-11T14:38:01.349946",
+    "messages": [
+      {
+        "role": "user",
+        "content": "What is the attendance limit?"
+      },
+      {
+        "role": "assistant",
+        "content": "The minimum attendance requirements are at least 70% for theoretical courses and at least 80% for practical courses. These conditions cannot be exceeded (Article 22 – sinav.pdf).",
+        "sources": [
+          "MADDE 22 – (1) Öğrenciler derslere, uygulamalara ve sınavlara katılmak zorundadır. Devam | sinav.pdf",
+          "MADDE 21 – (1) Öğrenciler her yarıyılın başında, akademik takvimde belirtilen süreler | sinav.pdf",
+          "MADDE 15 – (1) Öğrenci konseyi yönetim kurulu, öğrenci konseyi genel kurulu üyelerinin, kendi aralarından, seçime katılanların salt çoğunluğuyla ve iki yıl için seçeceği biri başkan yardımcısı olmak üzere sekiz öğrenci ve öğrenci konseyi başkanından oluşur. Öğrenci konseyi yönetim kurulu, öğrenci konseyi genel kuruluna karşı sorumludur. | ÖĞRENCİ KONSEYİ YÖNETMELİĞİ.pdf",
+          "MADDE 8 – (1) Öğrenciler, her yarıyılın başında ve akademik takvimde belirtilen süre içerisinde | sinav.pdf",
+          "MADDE 15 – (1) Yükseköğretim Kurulu tarafından belirlenen yabancı ülkelerden gelecek o ülkenin uyrukluğunda bulunan yabancı öğrencilerin kontenjanı bu Yönetmeliğin | Mevzuat Bilgi Sistemi.pdf"
+        ]
+      },
+      {
+        "role": "user",
+        "content": "What GPA is needed for horizontal transfer?"
+      },
+      {
+        "role": "assistant",
+        "content": "According to the regulations provided, for a horizontal transfer (kurum içi yatay geçiş), the general requirement is that the student must have achieved a certain ranking in national exams such as the ÖSYM (Öğrenci Seçme ve Yerleştirme) exams. Specifically, students need to have an average score equal to or higher than the minimum scores announced by the Student Selection and Placement Center for the relevant exam types.\n\nFor instance, if a program requires a student to have performed at least in the top 25% of national rankings, then the student would need to achieve a GPA that corresponds to this ranking. However, exact GPA requirements can vary depending on the specific program and year.\n\nTo summarize, there isn't a fixed GPA threshold mentioned, but rather a requirement based on performance in national exams. For precise details, you should refer to the regulations for the specific academic year and program.",
+        "sources": [
+          "MADDE 11 – (1) Kurumlar arası yatay geçiş yükseköğretim kurumlarının aynı düzeydeki eşdeğer diploma programları arasında ve Yükseköğretim Kurulu tarafından yayınlanan kontenjanlar çerçevesinde yapılır. | Mevzuat Bilgi Sistemi.pdf",
+          "MADDE 7 – (1) Diploma programları arasında yatay geçiş başvuruları, sadece ilan edilen süre içerisinde yapılır. | Mevzuat Bilgi Sistemi.pdf",
+          "MADDE 1 – (Ek:RG-21/9/2013-28772) (Değişik:RG-2/5/2014-28988) | Mevzuat Bilgi Sistemi.pdf",
+          "MADDE 8 – (1) Her bir diploma programına yatay geçiş için başvuran adayların değerlendirme sonuçları, (Ek ibare:RG-28/2/2026-33182) değerlendirmede esas alınan puanlara göre sıralanmış olarak ilgili yükseköğretim kurumunun internet sayfasında duyurulur. (Mülga cümle:RG-28/2/2026-33182) | Mevzuat Bilgi Sistemi.pdf",
+          "MADDE 14 – (1) Üniversite senatoları tarafından yurtdışındaki yükseköğretim kurumlarından yapılacak yatay geçişler için kontenjan belirlenebilir. Kontenjan belirlenmesi halinde her bir program için kurumlar arası yatay geçiş kontenjanının yarısını aşmayacak şekilde belirlenen yurt dışı yükseköğretim kurumları kontenjanları ile üniversite senatosu tarafından belirlenen başvuru şartları, kurumlar arası yatay geçiş kontenjanları ile birlikte Yükseköğretim Kuruluna en geç Haziran ayının otuzuncu günü mesai saati bitimine kadar bildirilir. Yükseköğretim Kurulu internet sayfasında tüm yükseköğretim kurumlarının yurt dışı öğrenci kontenjanları ile başvuru şartları ve değerlendirme takvimi ilan edilir. | Mevzuat Bilgi Sistemi.pdf"
+        ]
+      },
+      {
+        "role": "user",
+        "content": "What GPA is required to graduate?"
+      },
+      {
+        "role": "assistant",
+        "content": "According to Article 29 of the regulation (sinav.pdf), a student must have a general academic average grade point score of at least 2.0 in order to be eligible for graduation after completing all the courses, practicals, internships, and similar activities prescribed by their diploma program.\n\nSo, the required GPA for graduation is **at least 2.0** (Article 29 – sinav.pdf).",
+        "sources": [
+          "MADDE 29 – (1) Öğrencinin mezuniyete hak kazanabilmesi için; kayıtlı olduğu diploma | sinav.pdf",
+          "MADDE 26 – (1) Öğrencilerin başarı durumları, bitirdikleri yarıyılda almış oldukları derslere ait | sinav.pdf",
+          "MADDE 20 – (1) Yandal programına başvurusu kabul edilen öğrenci, yandal programı kapsamında, senato kararı ile belirlenmiş olan dersleri almak ve bu dersleri başarmak zorundadır. Bu dersler ilgili bölümler arasında kararlaştırılır, ilgili fakülte kurullarının ve üniversite senatosunun onayına sunulur. | Mevzuat Bilgi Sistemi.pdf",
+          "MADDE 30 – (1) Onur belgesi ve yüksek onur belgesi, Sena to tarafından belirlenen esaslara ve | sinav.pdf",
+          "MADDE 17 – (1) (Değişik:RG-9/6/2017- 30091) Öğrenci ikinci anadal diploma programına, anadal lisans diploma programında en erken üçüncü yarıyılın başında, en geç ise dört yıllık programlarda beşinci yarıyılın başında, beş yıllık programlarda yedinci yarıyılın başında, altı yıllık programlarda ise dokuzuncu yarıyılın başında, anadal önlisans diploma programında en erken ikinci yarıyılın başında, en geç ise üçüncü yarıyılın başında başvurabilir. | Mevzuat Bilgi Sistemi.pdf"
+        ]
+      }
+    ],
+    "pinned": false,
+    "lang": "EN"
+  }
+}
